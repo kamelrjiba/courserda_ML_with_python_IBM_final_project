@@ -1,1 +1,1 @@
-# courserda_ML_with_python_IBM_final_project
+# coursera_ML_with_python_IBM_final_project
